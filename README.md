@@ -4,9 +4,6 @@
    <h3>Another movie database app.</h3>
 </div>
 
-<div align='center'>
-<a href='https://movie-db-arrugonoto.vercel.app/'>demo</a>
-</div>
 <br>
 <div align='center'>
 <img src='https://img.shields.io/github/languages/top/Arrugonoto/moviedb?color=007acc&logo=typescript' alt='Dominant language'/>
